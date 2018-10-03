@@ -1,0 +1,33 @@
+body {
+    background-color: palegoldenrod;
+}
+h1 {
+    color: royalblue;
+}
+#son ul {
+    background: darkgreen;
+    list-style-type: none;
+    text-align: center;
+  }
+  #son li {
+    color: #f1f1f1;
+    display: inline-block;
+    width: 160px;
+    height: 60px;
+    line-height: 60px;
+    margin-left: -5px;
+  }
+  #son a {
+    text-decoration: none;
+    color: #fff;
+    display: block;
+  }
+  #son a:hover {
+    background: #F1F1F1;
+    color: #333;
+  }
+  footer{
+      background:rgb(177, 218, 112);
+      text-align: center;
+      
+  }
